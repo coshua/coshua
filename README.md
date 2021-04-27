@@ -1,5 +1,17 @@
-### Hi there 👋
+# Dongju Kim
 
+**Resume:** https://jutopia.net
+
+---
+
+## Education
+[**Edmonds College**, Lynnwood WA](https://www.edmonds.edu/)&nbsp;&nbsp;&nbsp;*Sep, 2019 - Mar, 2021*
+
+Associate of Art, Computer Science
+
+[**Yonsei University**, Seoul, Korea](https://www.yonsei.ac.kr/)&nbsp;&nbsp;&nbsp;*In progress*
+
+Bachelor of Art, Communication
 <!--
 **coshua/coshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
